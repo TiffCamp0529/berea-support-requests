@@ -1,0 +1,11 @@
+# Berea College 2026 Official Brand Standards
+[theme]
+primaryColor             = "#004175"
+backgroundColor          = "#FFFFFF"
+secondaryBackgroundColor = "#F0F5FB"
+textColor                = "#000000"
+font                     = "sans serif"
+
+[server]
+maxUploadSize        = 10
+enableXsrfProtection = true
